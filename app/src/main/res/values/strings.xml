@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DialogTextView</string>
+
+    <string name="pick_toppings">pick</string>
+
+    <string name="earth">Earth</string>
+    <string name="moon">Moon</string>
+    <string name="ok">ok</string>
+    <string name="cancel">ok</string>
+    <string name="None">None</string>
+
+    <string-array name="system">
+        <item>@string/earth</item>
+        <item>@string/moon</item>
+    </string-array>
+</resources>
